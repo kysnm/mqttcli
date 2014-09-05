@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"os"
 
-	MQTT "git.eclipse.org/gitroot/paho/org.eclipse.paho.mqtt.golang.git"
+	MQTT "git.eclipse.org/gitroot/paho/org.eclipse.paho.mqtt.golang"
 	log "github.com/Sirupsen/logrus"
 	"github.com/codegangsta/cli"
 	colorable "github.com/mattn/go-colorable"
